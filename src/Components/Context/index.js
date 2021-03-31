@@ -28,7 +28,7 @@ export const Provider = (props) => {
           id: id += 1
         }
       ]
-    });    
+    });  
   };
 
   const handleRemovePlayer = (id) => { 
